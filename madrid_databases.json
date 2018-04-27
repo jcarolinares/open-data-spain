@@ -1,0 +1,751 @@
+{
+    "Actividades Culturales y de Ocio Municipal en los próximos 100 días": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json", 
+            "http://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.geo", 
+            "http://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.csv", 
+            "http://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.rdf", 
+            "http://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.xml"
+        ], 
+        "title": "Actividades Culturales y de Ocio Municipal en los próximos 100 días", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-actividades-culturales-y-de-ocio-municipal-en-los-proximos-100-dias"
+    }, 
+    "Actividades gratuitas en Bibliotecas Municipales en los próximos 60 días": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/206717-0-agenda-eventos-bibliotecas.xml", 
+            "http://datos.madrid.es/egob/catalogo/206717-0-agenda-eventos-bibliotecas.json", 
+            "http://datos.madrid.es/egob/catalogo/206717-0-agenda-eventos-bibliotecas.csv", 
+            "http://datos.madrid.es/egob/catalogo/206717-0-agenda-eventos-bibliotecas.rdf", 
+            "http://datos.madrid.es/egob/catalogo/206717-0-agenda-eventos-bibliotecas.geo"
+        ], 
+        "title": "Actividades gratuitas en Bibliotecas Municipales en los próximos 60 días", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-actividades-gratuitas-en-bibliotecas-municipales-en-los-proximos-60-dias"
+    }, 
+    "Agenda de actividades deportivas": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/212504-0-agenda-actividades-deportes.rdf", 
+            "http://datos.madrid.es/egob/catalogo/212504-0-agenda-actividades-deportes.json", 
+            "http://datos.madrid.es/egob/catalogo/212504-0-agenda-actividades-deportes.csv", 
+            "http://datos.madrid.es/egob/catalogo/212504-0-agenda-actividades-deportes.xml", 
+            "http://datos.madrid.es/egob/catalogo/212504-0-agenda-actividades-deportes.geo"
+        ], 
+        "title": "Agenda de actividades deportivas", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-agenda-de-actividades-deportivas"
+    }, 
+    "Agenda de actividades y eventos": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/300107-0-agenda-actividades-eventos.geo", 
+            "http://datos.madrid.es/egob/catalogo/300107-0-agenda-actividades-eventos.xml", 
+            "http://datos.madrid.es/egob/catalogo/300107-0-agenda-actividades-eventos.rdf", 
+            "http://datos.madrid.es/egob/catalogo/300107-0-agenda-actividades-eventos.json", 
+            "http://datos.madrid.es/egob/catalogo/300107-0-agenda-actividades-eventos.csv"
+        ], 
+        "title": "Agenda de actividades y eventos", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-agenda-de-actividades-y-eventos"
+    }, 
+    "Aparcamientos públicos municipales": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/202625-0-aparcamientos-publicos.csv", 
+            "http://datos.madrid.es/egob/catalogo/202625-0-aparcamientos-publicos.geo", 
+            "http://datos.madrid.es/egob/catalogo/202625-0-aparcamientos-publicos.xml", 
+            "http://datos.madrid.es/egob/catalogo/202625-0-aparcamientos-publicos.json", 
+            "http://datos.madrid.es/egob/catalogo/202625-0-aparcamientos-publicos.rdf"
+        ], 
+        "title": "Aparcamientos públicos municipales", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-aparcamientos-publicos-municipales"
+    }, 
+    "Aparcamientos residentes P.A.R.  y aparcamientos públicos mixtos": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/202584-0-aparcamientos-residentes.csv", 
+            "http://datos.madrid.es/egob/catalogo/202584-0-aparcamientos-residentes.xml", 
+            "http://datos.madrid.es/egob/catalogo/202584-0-aparcamientos-residentes.json", 
+            "http://datos.madrid.es/egob/catalogo/202584-0-aparcamientos-residentes.rdf", 
+            "http://datos.madrid.es/egob/catalogo/202584-0-aparcamientos-residentes.geo"
+        ], 
+        "title": "Aparcamientos residentes P.A.R.  y aparcamientos públicos mixtos", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-aparcamientos-residentes-p-a-r-y-aparcamientos-publicos-mixtos"
+    }, 
+    "Bibliotecas y bibliobuses en la ciudad de Madrid": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/201747-0-bibliobuses-bibliotecas.xml", 
+            "http://datos.madrid.es/egob/catalogo/201747-0-bibliobuses-bibliotecas.csv", 
+            "http://datos.madrid.es/egob/catalogo/201747-0-bibliobuses-bibliotecas.rdf", 
+            "http://datos.madrid.es/egob/catalogo/201747-0-bibliobuses-bibliotecas.geo", 
+            "http://datos.madrid.es/egob/catalogo/201747-0-bibliobuses-bibliotecas.json"
+        ], 
+        "title": "Bibliotecas y bibliobuses en la ciudad de Madrid", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-bibliotecas-y-bibliobuses-en-la-ciudad-de-madrid"
+    }, 
+    "Bomberos: Parques de bomberos": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/211642-0-bomberos-parques.json", 
+            "http://datos.madrid.es/egob/catalogo/211642-0-bomberos-parques.csv", 
+            "http://datos.madrid.es/egob/catalogo/211642-0-bomberos-parques.geo", 
+            "http://datos.madrid.es/egob/catalogo/211642-0-bomberos-parques.xml", 
+            "http://datos.madrid.es/egob/catalogo/211642-0-bomberos-parques.rdf"
+        ], 
+        "title": "Bomberos: Parques de bomberos", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-bomberos-parques-de-bomberos"
+    }, 
+    "Cementerios de Madrid": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/205026-0-cementerios.xml", 
+            "http://datos.madrid.es/egob/catalogo/205026-0-cementerios.csv", 
+            "http://datos.madrid.es/egob/catalogo/205026-0-cementerios.json", 
+            "http://datos.madrid.es/egob/catalogo/205026-0-cementerios.geo", 
+            "http://datos.madrid.es/egob/catalogo/205026-0-cementerios.rdf"
+        ], 
+        "title": "Cementerios de Madrid", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-cementerios-de-madrid"
+    }, 
+    "Centros Culturales Municipales (incluyen Socioculturales y Juveniles)": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/200304-0-centros-culturales.rdf", 
+            "http://datos.madrid.es/egob/catalogo/200304-0-centros-culturales.xml", 
+            "http://datos.madrid.es/egob/catalogo/200304-0-centros-culturales.csv", 
+            "http://datos.madrid.es/egob/catalogo/200304-0-centros-culturales.json", 
+            "http://datos.madrid.es/egob/catalogo/200304-0-centros-culturales.geo"
+        ], 
+        "title": "Centros Culturales Municipales (incluyen Socioculturales y Juveniles)", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-centros-culturales-municipales"
+    }, 
+    "Centros Municipales de Mayores": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/200337-0-centros-mayores.csv", 
+            "http://datos.madrid.es/egob/catalogo/200337-0-centros-mayores.xml", 
+            "http://datos.madrid.es/egob/catalogo/200337-0-centros-mayores.json", 
+            "http://datos.madrid.es/egob/catalogo/200337-0-centros-mayores.rdf", 
+            "http://datos.madrid.es/egob/catalogo/200337-0-centros-mayores.geo"
+        ], 
+        "title": "Centros Municipales de Mayores", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-centros-municipales-de-mayores"
+    }, 
+    "Centros de Atención para Menores y Familia": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/205244-0-infancia-familia-adolescentes.csv", 
+            "http://datos.madrid.es/egob/catalogo/205244-0-infancia-familia-adolescentes.rdf", 
+            "http://datos.madrid.es/egob/catalogo/205244-0-infancia-familia-adolescentes.xml", 
+            "http://datos.madrid.es/egob/catalogo/205244-0-infancia-familia-adolescentes.geo", 
+            "http://datos.madrid.es/egob/catalogo/205244-0-infancia-familia-adolescentes.json"
+        ], 
+        "title": "Centros de Atención para Menores y Familia", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-centros-de-atencion-para-menores-y-familia"
+    }, 
+    "Centros de Día": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/200342-0-centros-dia.xml", 
+            "http://datos.madrid.es/egob/catalogo/200342-0-centros-dia.csv", 
+            "http://datos.madrid.es/egob/catalogo/200342-0-centros-dia.rdf", 
+            "http://datos.madrid.es/egob/catalogo/200342-0-centros-dia.geo", 
+            "http://datos.madrid.es/egob/catalogo/200342-0-centros-dia.json"
+        ], 
+        "title": "Centros de Día", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-centros-de-dia"
+    }, 
+    "Centros de Servicios Sociales Municipales": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/209094-0-servicios-sociales.geo", 
+            "http://datos.madrid.es/egob/catalogo/209094-0-servicios-sociales.json", 
+            "http://datos.madrid.es/egob/catalogo/209094-0-servicios-sociales.csv", 
+            "http://datos.madrid.es/egob/catalogo/209094-0-servicios-sociales.rdf", 
+            "http://datos.madrid.es/egob/catalogo/209094-0-servicios-sociales.xml"
+        ], 
+        "title": "Centros de Servicios Sociales Municipales", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-centros-de-servicios-sociales-municipales"
+    }, 
+    "Centros de la Escuela Oficial de Idiomas en Madrid": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/207037-0-idiomas-oficial.geo", 
+            "http://datos.madrid.es/egob/catalogo/207037-0-idiomas-oficial.json", 
+            "http://datos.madrid.es/egob/catalogo/207037-0-idiomas-oficial.rdf", 
+            "http://datos.madrid.es/egob/catalogo/207037-0-idiomas-oficial.csv", 
+            "http://datos.madrid.es/egob/catalogo/207037-0-idiomas-oficial.xml"
+        ], 
+        "title": "Centros de la Escuela Oficial de Idiomas en Madrid", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-centros-de-la-escuela-oficial-de-idiomas-en-madrid"
+    }, 
+    "Centros municipales de enseñanzas artísticas": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/203868-0-ceramica-danza-musica-dramatico.xml", 
+            "http://datos.madrid.es/egob/catalogo/203868-0-ceramica-danza-musica-dramatico.geo", 
+            "http://datos.madrid.es/egob/catalogo/203868-0-ceramica-danza-musica-dramatico.json", 
+            "http://datos.madrid.es/egob/catalogo/203868-0-ceramica-danza-musica-dramatico.rdf", 
+            "http://datos.madrid.es/egob/catalogo/203868-0-ceramica-danza-musica-dramatico.csv"
+        ], 
+        "title": "Centros municipales de enseñanzas artísticas", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-centros-municipales-de-ensenanzas-artisticas"
+    }, 
+    "Centros para personas con discapacidad": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/205712-0-servicios-sociales.geo", 
+            "http://datos.madrid.es/egob/catalogo/205712-0-servicios-sociales.rdf", 
+            "http://datos.madrid.es/egob/catalogo/205712-0-servicios-sociales.csv", 
+            "http://datos.madrid.es/egob/catalogo/205712-0-servicios-sociales.json", 
+            "http://datos.madrid.es/egob/catalogo/205712-0-servicios-sociales.xml"
+        ], 
+        "title": "Centros para personas con discapacidad", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-centros-para-personas-con-discapacidad"
+    }, 
+    "Centros para personas sin hogar": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/205732-0-servicios-sociales.geo", 
+            "http://datos.madrid.es/egob/catalogo/205732-0-servicios-sociales.rdf", 
+            "http://datos.madrid.es/egob/catalogo/205732-0-servicios-sociales.xml", 
+            "http://datos.madrid.es/egob/catalogo/205732-0-servicios-sociales.json", 
+            "http://datos.madrid.es/egob/catalogo/205732-0-servicios-sociales.csv"
+        ], 
+        "title": "Centros para personas sin hogar", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-centros-para-personas-sin-hogar"
+    }, 
+    "Colegios Públicos de Madrid": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/202311-0-colegios-publicos.rdf", 
+            "http://datos.madrid.es/egob/catalogo/202311-0-colegios-publicos.geo", 
+            "http://datos.madrid.es/egob/catalogo/202311-0-colegios-publicos.xml", 
+            "http://datos.madrid.es/egob/catalogo/202311-0-colegios-publicos.json", 
+            "http://datos.madrid.es/egob/catalogo/202311-0-colegios-publicos.csv"
+        ], 
+        "title": "Colegios Públicos de Madrid", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-colegios-publicos-de-madrid"
+    }, 
+    "Deportes: Centros Deportivos Municipales (Polideportivos)": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/200186-0-polideportivos.rdf", 
+            "http://datos.madrid.es/egob/catalogo/200186-0-polideportivos.json", 
+            "http://datos.madrid.es/egob/catalogo/200186-0-polideportivos.csv", 
+            "http://datos.madrid.es/egob/catalogo/200186-0-polideportivos.xml", 
+            "http://datos.madrid.es/egob/catalogo/200186-0-polideportivos.geo"
+        ], 
+        "title": "Deportes: Centros Deportivos Municipales (Polideportivos)", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-deportes-centros-deportivos-municipales-polideportivos"
+    }, 
+    "Deportes: Instalaciones Deportivas Básicas Municipales": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/200215-0-instalaciones-deportivas.rdf", 
+            "http://datos.madrid.es/egob/catalogo/200215-0-instalaciones-deportivas.geo", 
+            "http://datos.madrid.es/egob/catalogo/200215-0-instalaciones-deportivas.json", 
+            "http://datos.madrid.es/egob/catalogo/200215-0-instalaciones-deportivas.xml", 
+            "http://datos.madrid.es/egob/catalogo/200215-0-instalaciones-deportivas.csv"
+        ], 
+        "title": "Deportes: Instalaciones Deportivas Básicas Municipales", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-deportes-instalaciones-deportivas-basicas-municipales"
+    }, 
+    "Deportes: Piscinas municipales en la ciudad de Madrid.": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/210227-0-piscinas-publicas.geo", 
+            "http://datos.madrid.es/egob/catalogo/210227-0-piscinas-publicas.json", 
+            "http://datos.madrid.es/egob/catalogo/210227-0-piscinas-publicas.rdf", 
+            "http://datos.madrid.es/egob/catalogo/210227-0-piscinas-publicas.csv", 
+            "http://datos.madrid.es/egob/catalogo/210227-0-piscinas-publicas.xml"
+        ], 
+        "title": "Deportes: Piscinas municipales en la ciudad de Madrid.", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-deportes-piscinas-municipales-en-la-ciudad-de-madrid"
+    }, 
+    "Edificios de carácter monumental": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/208844-0-monumentos-edificios.rdf", 
+            "http://datos.madrid.es/egob/catalogo/208844-0-monumentos-edificios.xml", 
+            "http://datos.madrid.es/egob/catalogo/208844-0-monumentos-edificios.csv", 
+            "http://datos.madrid.es/egob/catalogo/208844-0-monumentos-edificios.geo", 
+            "http://datos.madrid.es/egob/catalogo/208844-0-monumentos-edificios.json"
+        ], 
+        "title": "Edificios de carácter monumental", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-edificios-de-caracter-monumental"
+    }, 
+    "Embajadas y Consulados": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/201000-0-embajadas-consulados.geo", 
+            "http://datos.madrid.es/egob/catalogo/201000-0-embajadas-consulados.xml", 
+            "http://datos.madrid.es/egob/catalogo/201000-0-embajadas-consulados.rdf", 
+            "http://datos.madrid.es/egob/catalogo/201000-0-embajadas-consulados.json", 
+            "http://datos.madrid.es/egob/catalogo/201000-0-embajadas-consulados.csv"
+        ], 
+        "title": "Embajadas y Consulados", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-embajadas-y-consulados"
+    }, 
+    "Empresas adheridas al Sistema Arbitral de Consumo": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/206306-0-empresas-arbitraje.csv", 
+            "http://datos.madrid.es/egob/catalogo/206306-0-empresas-arbitraje.rdf", 
+            "http://datos.madrid.es/egob/catalogo/206306-0-empresas-arbitraje.xml", 
+            "http://datos.madrid.es/egob/catalogo/206306-0-empresas-arbitraje.json", 
+            "http://datos.madrid.es/egob/catalogo/206306-0-empresas-arbitraje.geo"
+        ], 
+        "title": "Empresas adheridas al Sistema Arbitral de Consumo", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-empresas-adheridas-al-sistema-arbitral-de-consumo"
+    }, 
+    "Escuelas Infantiles Municipales": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/202318-0-escuelas-infantiles.geo", 
+            "http://datos.madrid.es/egob/catalogo/202318-0-escuelas-infantiles.csv", 
+            "http://datos.madrid.es/egob/catalogo/202318-0-escuelas-infantiles.xml", 
+            "http://datos.madrid.es/egob/catalogo/202318-0-escuelas-infantiles.rdf", 
+            "http://datos.madrid.es/egob/catalogo/202318-0-escuelas-infantiles.json"
+        ], 
+        "title": "Escuelas Infantiles Municipales", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-escuelas-infantiles-municipales"
+    }, 
+    "Eventos municipales para el fomento de la igualdad de oportunidades los próxi...": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/210673-0-eventos-igualdad-inmigrantes-100.json", 
+            "http://datos.madrid.es/egob/catalogo/210673-0-eventos-igualdad-inmigrantes-100.geo", 
+            "http://datos.madrid.es/egob/catalogo/210673-0-eventos-igualdad-inmigrantes-100.csv", 
+            "http://datos.madrid.es/egob/catalogo/210673-0-eventos-igualdad-inmigrantes-100.xml", 
+            "http://datos.madrid.es/egob/catalogo/210673-0-eventos-igualdad-inmigrantes-100.rdf"
+        ], 
+        "title": "Eventos municipales para el fomento de la igualdad de oportunidades los próxi...", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-eventos-municipales-para-el-fomento-de-la-igualdad-de-oportunidades-los-proximos-100-dias"
+    }, 
+    "Fundaciones": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/208671-7526267-fundaciones.csv", 
+            "http://datos.madrid.es/egob/catalogo/208671-7526267-fundaciones.xml", 
+            "http://datos.madrid.es/egob/catalogo/208671-7526267-fundaciones.json", 
+            "http://datos.madrid.es/egob/catalogo/208671-7526267-fundaciones.rdf", 
+            "http://datos.madrid.es/egob/catalogo/208671-7526267-fundaciones.geo", 
+            "http://datos.madrid.es/egob/catalogo/208671-7637222-fundaciones.geo", 
+            "http://datos.madrid.es/egob/catalogo/208671-7637222-fundaciones.json", 
+            "http://datos.madrid.es/egob/catalogo/208671-7637222-fundaciones.csv", 
+            "http://datos.madrid.es/egob/catalogo/208671-7637222-fundaciones.rdf", 
+            "http://datos.madrid.es/egob/catalogo/208671-7637222-fundaciones.xml", 
+            "http://datos.madrid.es/egob/catalogo/208671-7637228-fundaciones.xml", 
+            "http://datos.madrid.es/egob/catalogo/208671-7637228-fundaciones.csv", 
+            "http://datos.madrid.es/egob/catalogo/208671-7637228-fundaciones.geo", 
+            "http://datos.madrid.es/egob/catalogo/208671-7637228-fundaciones.rdf", 
+            "http://datos.madrid.es/egob/catalogo/208671-7637228-fundaciones.json", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638772-fundaciones.rdf", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638772-fundaciones.json", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638772-fundaciones.geo", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638772-fundaciones.xml", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638772-fundaciones.csv", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638779-fundaciones.rdf", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638779-fundaciones.geo", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638779-fundaciones.json", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638779-fundaciones.csv", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638779-fundaciones.xml", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638785-fundaciones.rdf", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638785-fundaciones.json", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638785-fundaciones.csv", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638785-fundaciones.geo", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638785-fundaciones.xml", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638793-fundaciones.json", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638793-fundaciones.xml", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638793-fundaciones.geo", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638793-fundaciones.csv", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638793-fundaciones.rdf", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638800-fundaciones.csv", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638800-fundaciones.rdf", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638800-fundaciones.geo", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638800-fundaciones.xml", 
+            "http://datos.madrid.es/egob/catalogo/208671-7638800-fundaciones.json"
+        ], 
+        "title": "Fundaciones", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-fundaciones"
+    }, 
+    "Instalaciones accesibles municipales": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/202162-0-instalaciones-accesibles-municip.geo", 
+            "http://datos.madrid.es/egob/catalogo/202162-0-instalaciones-accesibles-municip.rdf", 
+            "http://datos.madrid.es/egob/catalogo/202162-0-instalaciones-accesibles-municip.csv", 
+            "http://datos.madrid.es/egob/catalogo/202162-0-instalaciones-accesibles-municip.xml", 
+            "http://datos.madrid.es/egob/catalogo/202162-0-instalaciones-accesibles-municip.json"
+        ], 
+        "title": "Instalaciones accesibles municipales", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-instalaciones-accesibles-municipales"
+    }, 
+    "Instalaciones accesibles no municipales": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/202180-0-instalaciones-accesibles-no-muni.geo", 
+            "http://datos.madrid.es/egob/catalogo/202180-0-instalaciones-accesibles-no-muni.json", 
+            "http://datos.madrid.es/egob/catalogo/202180-0-instalaciones-accesibles-no-muni.rdf", 
+            "http://datos.madrid.es/egob/catalogo/202180-0-instalaciones-accesibles-no-muni.xml", 
+            "http://datos.madrid.es/egob/catalogo/202180-0-instalaciones-accesibles-no-muni.csv"
+        ], 
+        "title": "Instalaciones accesibles no municipales", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-instalaciones-accesibles-no-municipales"
+    }, 
+    "Instalaciones municipales con zonas wifi gratuitas": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/216619-0-wifi-municipal.xml", 
+            "http://datos.madrid.es/egob/catalogo/216619-0-wifi-municipal.rdf", 
+            "http://datos.madrid.es/egob/catalogo/216619-0-wifi-municipal.csv", 
+            "http://datos.madrid.es/egob/catalogo/216619-0-wifi-municipal.json", 
+            "http://datos.madrid.es/egob/catalogo/216619-0-wifi-municipal.geo"
+        ], 
+        "title": "Instalaciones municipales con zonas wifi gratuitas", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-instalaciones-municipales-con-zonas-wifi-gratuitas"
+    }, 
+    "Juntas Municipales de Distrito": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/206688-0-juntas-distrito.rdf", 
+            "http://datos.madrid.es/egob/catalogo/206688-0-juntas-distrito.json", 
+            "http://datos.madrid.es/egob/catalogo/206688-0-juntas-distrito.xml", 
+            "http://datos.madrid.es/egob/catalogo/206688-0-juntas-distrito.geo", 
+            "http://datos.madrid.es/egob/catalogo/206688-0-juntas-distrito.csv"
+        ], 
+        "title": "Juntas Municipales de Distrito", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-juntas-municipales-de-distrito"
+    }, 
+    "Mercadillos en la vía pública": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/202105-0-mercadillos.rdf", 
+            "http://datos.madrid.es/egob/catalogo/202105-0-mercadillos.json", 
+            "http://datos.madrid.es/egob/catalogo/202105-0-mercadillos.geo", 
+            "http://datos.madrid.es/egob/catalogo/202105-0-mercadillos.xml", 
+            "http://datos.madrid.es/egob/catalogo/202105-0-mercadillos.csv"
+        ], 
+        "title": "Mercadillos en la vía pública", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-mercadillos-en-la-via-publica"
+    }, 
+    "Mercados Municipales": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/200967-0-mercados.xml", 
+            "http://datos.madrid.es/egob/catalogo/200967-0-mercados.csv", 
+            "http://datos.madrid.es/egob/catalogo/200967-0-mercados.geo", 
+            "http://datos.madrid.es/egob/catalogo/200967-0-mercados.json", 
+            "http://datos.madrid.es/egob/catalogo/200967-0-mercados.rdf"
+        ], 
+        "title": "Mercados Municipales", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-mercados-municipales"
+    }, 
+    "Museos de la ciudad de Madrid": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/201132-0-turismo.geo", 
+            "http://datos.madrid.es/egob/catalogo/201132-0-turismo.xml", 
+            "http://datos.madrid.es/egob/catalogo/201132-0-turismo.csv", 
+            "http://datos.madrid.es/egob/catalogo/201132-0-turismo.rdf", 
+            "http://datos.madrid.es/egob/catalogo/201132-0-turismo.json"
+        ], 
+        "title": "Museos de la ciudad de Madrid", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-museos-de-la-ciudad-de-madrid"
+    }, 
+    "Oficina Municipal de Información al Consumidor": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/202923-0-oficinas-omic.xml", 
+            "http://datos.madrid.es/egob/catalogo/202923-0-oficinas-omic.geo", 
+            "http://datos.madrid.es/egob/catalogo/202923-0-oficinas-omic.csv", 
+            "http://datos.madrid.es/egob/catalogo/202923-0-oficinas-omic.rdf", 
+            "http://datos.madrid.es/egob/catalogo/202923-0-oficinas-omic.json"
+        ], 
+        "title": "Oficina Municipal de Información al Consumidor", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-oficina-municipal-de-informacion-al-consumidor"
+    }, 
+    "Oficinas de Línea Madrid": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/200149-0-oficinas-linea-madrid.json", 
+            "http://datos.madrid.es/egob/catalogo/200149-0-oficinas-linea-madrid.rdf", 
+            "http://datos.madrid.es/egob/catalogo/200149-0-oficinas-linea-madrid.csv", 
+            "http://datos.madrid.es/egob/catalogo/200149-0-oficinas-linea-madrid.geo", 
+            "http://datos.madrid.es/egob/catalogo/200149-0-oficinas-linea-madrid.xml"
+        ], 
+        "title": "Oficinas de Línea Madrid", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-oficinas-de-linea-madrid"
+    }, 
+    "Oficinas de la Agencia Municipal de Empleo": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/212086-0-oficinas-empleo.geo", 
+            "http://datos.madrid.es/egob/catalogo/212086-0-oficinas-empleo.json", 
+            "http://datos.madrid.es/egob/catalogo/212086-0-oficinas-empleo.xml", 
+            "http://datos.madrid.es/egob/catalogo/212086-0-oficinas-empleo.csv", 
+            "http://datos.madrid.es/egob/catalogo/212086-0-oficinas-empleo.rdf"
+        ], 
+        "title": "Oficinas de la Agencia Municipal de Empleo", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-oficinas-de-la-agencia-municipal-de-empleo"
+    }, 
+    "Oficinas de registro": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/202139-0-oficinas-registro.xml", 
+            "http://datos.madrid.es/egob/catalogo/202139-0-oficinas-registro.csv", 
+            "http://datos.madrid.es/egob/catalogo/202139-0-oficinas-registro.json", 
+            "http://datos.madrid.es/egob/catalogo/202139-0-oficinas-registro.rdf", 
+            "http://datos.madrid.es/egob/catalogo/202139-0-oficinas-registro.geo"
+        ], 
+        "title": "Oficinas de registro", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-oficinas-de-registro"
+    }, 
+    "Oficinas de turismo en Madrid": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/206577-0-oficinas-turismo.rdf", 
+            "http://datos.madrid.es/egob/catalogo/206577-0-oficinas-turismo.xml", 
+            "http://datos.madrid.es/egob/catalogo/206577-0-oficinas-turismo.geo", 
+            "http://datos.madrid.es/egob/catalogo/206577-0-oficinas-turismo.json", 
+            "http://datos.madrid.es/egob/catalogo/206577-0-oficinas-turismo.csv"
+        ], 
+        "title": "Oficinas de turismo en Madrid", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-oficinas-de-turismo-en-madrid"
+    }, 
+    "Parques y Jardines": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/200761-0-parques-jardines.csv", 
+            "http://datos.madrid.es/egob/catalogo/200761-0-parques-jardines.json", 
+            "http://datos.madrid.es/egob/catalogo/200761-0-parques-jardines.xml", 
+            "http://datos.madrid.es/egob/catalogo/200761-0-parques-jardines.geo", 
+            "http://datos.madrid.es/egob/catalogo/200761-0-parques-jardines.rdf"
+        ], 
+        "title": "Parques y Jardines", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-parques-y-jardines"
+    }, 
+    "Puntos Limpios Fijos": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/200284-0-puntos-limpios.csv", 
+            "http://datos.madrid.es/egob/catalogo/200284-0-puntos-limpios.xml", 
+            "http://datos.madrid.es/egob/catalogo/200284-0-puntos-limpios.json", 
+            "http://datos.madrid.es/egob/catalogo/200284-0-puntos-limpios.geo", 
+            "http://datos.madrid.es/egob/catalogo/200284-0-puntos-limpios.rdf"
+        ], 
+        "title": "Puntos Limpios Fijos", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-puntos-limpios-fijos-y-moviles"
+    }, 
+    "Puntos de atención a mujeres": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/205736-0-servicios-sociales.rdf", 
+            "http://datos.madrid.es/egob/catalogo/205736-0-servicios-sociales.xml", 
+            "http://datos.madrid.es/egob/catalogo/205736-0-servicios-sociales.geo", 
+            "http://datos.madrid.es/egob/catalogo/205736-0-servicios-sociales.json", 
+            "http://datos.madrid.es/egob/catalogo/205736-0-servicios-sociales.csv"
+        ], 
+        "title": "Puntos de atención a mujeres", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-puntos-de-atencion-a-mujeres"
+    }, 
+    "Puntos de información turística": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/201105-0-turismo.csv", 
+            "http://datos.madrid.es/egob/catalogo/201105-0-turismo.json", 
+            "http://datos.madrid.es/egob/catalogo/201105-0-turismo.geo", 
+            "http://datos.madrid.es/egob/catalogo/201105-0-turismo.rdf", 
+            "http://datos.madrid.es/egob/catalogo/201105-0-turismo.xml"
+        ], 
+        "title": "Puntos de información turística", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-puntos-de-informacion-turistica"
+    }, 
+    "Residencias de ancianos y apartamentos tutelados existentes en la ciudad de M...": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/300048-0-ancianos-residencias-apartamento.xml", 
+            "http://datos.madrid.es/egob/catalogo/300048-0-ancianos-residencias-apartamento.json", 
+            "http://datos.madrid.es/egob/catalogo/300048-0-ancianos-residencias-apartamento.rdf", 
+            "http://datos.madrid.es/egob/catalogo/300048-0-ancianos-residencias-apartamento.geo", 
+            "http://datos.madrid.es/egob/catalogo/300048-0-ancianos-residencias-apartamento.csv"
+        ], 
+        "title": "Residencias de ancianos y apartamentos tutelados existentes en la ciudad de M...", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-residencias-de-ancianos-y-apartamentos-tutelados-existentes-en-la-ciudad-de-madrid-datos-georreferenciados"
+    }, 
+    "Salas de espectáculos artísticos: teatros, cines, filmotecas, auditorios y sa...": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/208862-7650180-ocio_salas.csv", 
+            "http://datos.madrid.es/egob/catalogo/208862-7650180-ocio_salas.geo", 
+            "http://datos.madrid.es/egob/catalogo/208862-7650180-ocio_salas.rdf", 
+            "http://datos.madrid.es/egob/catalogo/208862-7650180-ocio_salas.json", 
+            "http://datos.madrid.es/egob/catalogo/208862-7650180-ocio_salas.xml", 
+            "http://datos.madrid.es/egob/catalogo/208862-7650164-ocio_salas.xml", 
+            "http://datos.madrid.es/egob/catalogo/208862-7650164-ocio_salas.csv", 
+            "http://datos.madrid.es/egob/catalogo/208862-7650164-ocio_salas.json", 
+            "http://datos.madrid.es/egob/catalogo/208862-7650164-ocio_salas.rdf", 
+            "http://datos.madrid.es/egob/catalogo/208862-7650164-ocio_salas.geo", 
+            "http://datos.madrid.es/egob/catalogo/208862-7650046-ocio_salas.csv", 
+            "http://datos.madrid.es/egob/catalogo/208862-7650046-ocio_salas.xml", 
+            "http://datos.madrid.es/egob/catalogo/208862-7650046-ocio_salas.json", 
+            "http://datos.madrid.es/egob/catalogo/208862-7650046-ocio_salas.rdf", 
+            "http://datos.madrid.es/egob/catalogo/208862-7650046-ocio_salas.geo"
+        ], 
+        "title": "Salas de espectáculos artísticos: teatros, cines, filmotecas, auditorios y sa...", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-salas-de-espectaculos-artisticos-teatros-cines-filmotecas-auditorios-y-salas-de-conciertos"
+    }, 
+    "Salas de estudio y lectura": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/217921-0-salas-estudio.xml", 
+            "http://datos.madrid.es/egob/catalogo/217921-0-salas-estudio.csv", 
+            "http://datos.madrid.es/egob/catalogo/217921-0-salas-estudio.rdf", 
+            "http://datos.madrid.es/egob/catalogo/217921-0-salas-estudio.json", 
+            "http://datos.madrid.es/egob/catalogo/217921-0-salas-estudio.geo"
+        ], 
+        "title": "Salas de estudio y lectura", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-salas-de-estudio-y-lectura"
+    }, 
+    "Sedes. Administración Central": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/212747-0-administracion-central.csv", 
+            "http://datos.madrid.es/egob/catalogo/212747-0-administracion-central.geo", 
+            "http://datos.madrid.es/egob/catalogo/212747-0-administracion-central.rdf", 
+            "http://datos.madrid.es/egob/catalogo/212747-0-administracion-central.json", 
+            "http://datos.madrid.es/egob/catalogo/212747-0-administracion-central.xml"
+        ], 
+        "title": "Sedes. Administración Central", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-sedes-administracion-central"
+    }, 
+    "Sedes. Administración de Justicia": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/212827-0-administracion-justicia.geo", 
+            "http://datos.madrid.es/egob/catalogo/212827-0-administracion-justicia.csv", 
+            "http://datos.madrid.es/egob/catalogo/212827-0-administracion-justicia.json", 
+            "http://datos.madrid.es/egob/catalogo/212827-0-administracion-justicia.xml", 
+            "http://datos.madrid.es/egob/catalogo/212827-0-administracion-justicia.rdf"
+        ], 
+        "title": "Sedes. Administración de Justicia", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-sedes-administracion-de-justicia"
+    }, 
+    "Sedes. Bibliotecas Especializadas Universitarias y Nacionales": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/212763-0-biblioteca-universitaria.json", 
+            "http://datos.madrid.es/egob/catalogo/212763-0-biblioteca-universitaria.csv", 
+            "http://datos.madrid.es/egob/catalogo/212763-0-biblioteca-universitaria.geo", 
+            "http://datos.madrid.es/egob/catalogo/212763-0-biblioteca-universitaria.xml", 
+            "http://datos.madrid.es/egob/catalogo/212763-0-biblioteca-universitaria.rdf"
+        ], 
+        "title": "Sedes. Bibliotecas Especializadas Universitarias y Nacionales", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-sedes-bibliotecas-especializadas-universitarias-y-nacionales"
+    }, 
+    "Sedes. Centros de Atención Médica": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/212769-0-atencion-medica.csv", 
+            "http://datos.madrid.es/egob/catalogo/212769-0-atencion-medica.json", 
+            "http://datos.madrid.es/egob/catalogo/212769-0-atencion-medica.rdf", 
+            "http://datos.madrid.es/egob/catalogo/212769-0-atencion-medica.xml", 
+            "http://datos.madrid.es/egob/catalogo/212769-0-atencion-medica.geo"
+        ], 
+        "title": "Sedes. Centros de Atención Médica", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-sedes-centros-de-atencion-medica"
+    }, 
+    "Sedes. Centros de Enseñanza": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/212904-0-centros-ensenanza.csv", 
+            "http://datos.madrid.es/egob/catalogo/212904-0-centros-ensenanza.json", 
+            "http://datos.madrid.es/egob/catalogo/212904-0-centros-ensenanza.geo", 
+            "http://datos.madrid.es/egob/catalogo/212904-0-centros-ensenanza.rdf", 
+            "http://datos.madrid.es/egob/catalogo/212904-0-centros-ensenanza.xml"
+        ], 
+        "title": "Sedes. Centros de Enseñanza", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-sedes-centros-de-ensenanza"
+    }, 
+    "Sedes. Comunidad de Madrid": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/212822-0-comunidad-madrid.xml", 
+            "http://datos.madrid.es/egob/catalogo/212822-0-comunidad-madrid.csv", 
+            "http://datos.madrid.es/egob/catalogo/212822-0-comunidad-madrid.rdf", 
+            "http://datos.madrid.es/egob/catalogo/212822-0-comunidad-madrid.geo", 
+            "http://datos.madrid.es/egob/catalogo/212822-0-comunidad-madrid.json"
+        ], 
+        "title": "Sedes. Comunidad de Madrid", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-sedes-comunidad-de-madrid"
+    }, 
+    "Sedes. Institutos de Investigación": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/212816-0-investigacion.json", 
+            "http://datos.madrid.es/egob/catalogo/212816-0-investigacion.geo", 
+            "http://datos.madrid.es/egob/catalogo/212816-0-investigacion.xml", 
+            "http://datos.madrid.es/egob/catalogo/212816-0-investigacion.rdf", 
+            "http://datos.madrid.es/egob/catalogo/212816-0-investigacion.csv"
+        ], 
+        "title": "Sedes. Institutos de Investigación", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-sedes-institutos-de-investigacion"
+    }, 
+    "Sedes. Oficinas de Correos": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/212841-0-oficinas-correos.xml", 
+            "http://datos.madrid.es/egob/catalogo/212841-0-oficinas-correos.geo", 
+            "http://datos.madrid.es/egob/catalogo/212841-0-oficinas-correos.json", 
+            "http://datos.madrid.es/egob/catalogo/212841-0-oficinas-correos.rdf", 
+            "http://datos.madrid.es/egob/catalogo/212841-0-oficinas-correos.csv"
+        ], 
+        "title": "Sedes. Oficinas de Correos", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-sedes-oficinas-de-correos"
+    }, 
+    "Sedes. Oficinas de elaboración de  DNI y Pasaporte": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/212846-0-oficinas-correos.csv", 
+            "http://datos.madrid.es/egob/catalogo/212846-0-oficinas-correos.xml", 
+            "http://datos.madrid.es/egob/catalogo/212846-0-oficinas-correos.json", 
+            "http://datos.madrid.es/egob/catalogo/212846-0-oficinas-correos.rdf", 
+            "http://datos.madrid.es/egob/catalogo/212846-0-oficinas-correos.geo"
+        ], 
+        "title": "Sedes. Oficinas de elaboración de  DNI y Pasaporte", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-sedes-oficinas-de-elaboracion-de-dni-y-pasaporte"
+    }, 
+    "Sedes. Oficinas de la Agencia Tributaria Estatal": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/212836-0-tributaria-estatal.geo", 
+            "http://datos.madrid.es/egob/catalogo/212836-0-tributaria-estatal.xml", 
+            "http://datos.madrid.es/egob/catalogo/212836-0-tributaria-estatal.rdf", 
+            "http://datos.madrid.es/egob/catalogo/212836-0-tributaria-estatal.csv", 
+            "http://datos.madrid.es/egob/catalogo/212836-0-tributaria-estatal.json"
+        ], 
+        "title": "Sedes. Oficinas de la Agencia Tributaria Estatal", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-sedes-oficinas-de-la-agencia-tributaria-estatal"
+    }, 
+    "Sedes: Centros con Espacios Deportivos": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/212808-0-espacio-deporte.geo", 
+            "http://datos.madrid.es/egob/catalogo/212808-0-espacio-deporte.rdf", 
+            "http://datos.madrid.es/egob/catalogo/212808-0-espacio-deporte.json", 
+            "http://datos.madrid.es/egob/catalogo/212808-0-espacio-deporte.csv", 
+            "http://datos.madrid.es/egob/catalogo/212808-0-espacio-deporte.xml"
+        ], 
+        "title": "Sedes: Centros con Espacios Deportivos", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-sedes-centros-con-espacios-deportivos"
+    }, 
+    "Sedes: Centros de Atención Social": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/212774-0-atencion-social.xml", 
+            "http://datos.madrid.es/egob/catalogo/212774-0-atencion-social.rdf", 
+            "http://datos.madrid.es/egob/catalogo/212774-0-atencion-social.geo", 
+            "http://datos.madrid.es/egob/catalogo/212774-0-atencion-social.csv", 
+            "http://datos.madrid.es/egob/catalogo/212774-0-atencion-social.json"
+        ], 
+        "title": "Sedes: Centros de Atención Social", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-sedes-centros-de-atencion-social"
+    }, 
+    "Sedes: Centros de Educación": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/212790-0-centros-educacion.geo", 
+            "http://datos.madrid.es/egob/catalogo/212790-0-centros-educacion.rdf", 
+            "http://datos.madrid.es/egob/catalogo/212790-0-centros-educacion.csv", 
+            "http://datos.madrid.es/egob/catalogo/212790-0-centros-educacion.json", 
+            "http://datos.madrid.es/egob/catalogo/212790-0-centros-educacion.xml"
+        ], 
+        "title": "Sedes: Centros de Educación", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-sedes-centros-de-educacion"
+    }, 
+    "Templos e iglesias católicas": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/209426-0-templos-catolicas.json", 
+            "http://datos.madrid.es/egob/catalogo/209426-0-templos-catolicas.xml", 
+            "http://datos.madrid.es/egob/catalogo/209426-0-templos-catolicas.csv", 
+            "http://datos.madrid.es/egob/catalogo/209426-0-templos-catolicas.rdf", 
+            "http://datos.madrid.es/egob/catalogo/209426-0-templos-catolicas.geo"
+        ], 
+        "title": "Templos e iglesias católicas", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-templos-e-iglesias-catolicas"
+    }, 
+    "Templos e iglesias no católicas": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/209434-0-templos-otros.rdf", 
+            "http://datos.madrid.es/egob/catalogo/209434-0-templos-otros.xml", 
+            "http://datos.madrid.es/egob/catalogo/209434-0-templos-otros.csv", 
+            "http://datos.madrid.es/egob/catalogo/209434-0-templos-otros.json", 
+            "http://datos.madrid.es/egob/catalogo/209434-0-templos-otros.geo"
+        ], 
+        "title": "Templos e iglesias no católicas", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-templos-e-iglesias-no-catolicas"
+    }, 
+    "Unidades Integrales de Distrito de Policía Municipal": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/207044-0-oficina-policia.csv", 
+            "http://datos.madrid.es/egob/catalogo/207044-0-oficina-policia.xml", 
+            "http://datos.madrid.es/egob/catalogo/207044-0-oficina-policia.json", 
+            "http://datos.madrid.es/egob/catalogo/207044-0-oficina-policia.geo", 
+            "http://datos.madrid.es/egob/catalogo/207044-0-oficina-policia.rdf"
+        ], 
+        "title": "Unidades Integrales de Distrito de Policía Municipal", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-unidades-integrales-de-distrito-de-policia-municipal"
+    }, 
+    "Universidades, colegios mayores, residencias universitarias y otros": {
+        "data_files": [
+            "http://datos.madrid.es/egob/catalogo/203166-0-universidades-educacion.csv", 
+            "http://datos.madrid.es/egob/catalogo/203166-0-universidades-educacion.rdf", 
+            "http://datos.madrid.es/egob/catalogo/203166-0-universidades-educacion.json", 
+            "http://datos.madrid.es/egob/catalogo/203166-0-universidades-educacion.geo", 
+            "http://datos.madrid.es/egob/catalogo/203166-0-universidades-educacion.xml"
+        ], 
+        "title": "Universidades, colegios mayores, residencias universitarias y otros", 
+        "url": "http://datos.gob.es/es/catalogo/l01280796-universidades-colegios-mayores-residencias-universitarias-y-otros"
+    }
+}

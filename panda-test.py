@@ -3,6 +3,9 @@
 import json
 import pandas as pd
 import wget
+from datetime import datetime
+
+
 # df=pd.read_json("data.json")
 
 #http://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.csv
@@ -24,8 +27,22 @@ file.write(file_data)
 file.close()
 
 
+#Pandas
 data = json.load(open('206974-0-agenda-eventos-culturales-100.json'))
 df = pd.DataFrame(data["@graph"])
-print(df.head(5))
+# print(df.head(5))
 
-#data = json.load(file_data)
+
+# print (df.sort_values("title", ascending=True))
+
+#How to access data
+print (df['title'][0])
+print(df['description'][0])
+print(df['dtstart'][0])
+print(df['dtend'][0])
+
+
+#Convert a string to a real datetime object
+date_obj = datetime.strptime(df['dtstart'][0], '%Y-%m-%d %H:%M:%S.%f') #%Y%m%dT%H%M%S
+
+print date_obj

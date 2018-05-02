@@ -110,8 +110,8 @@ def json_parser(json_url):
     print(json_data["@graph"][0]["dtend"])
 
 def main():
-    #catalog_downloader(keyphrase="madrid",format="json",max_of_pages=16)
-    json_parser("http://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json")
+    catalog_downloader(keyphrase="madrid",format="",max_of_pages=16)
+    #json_parser("http://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json")
 
 if __name__ == "__main__":
     main()

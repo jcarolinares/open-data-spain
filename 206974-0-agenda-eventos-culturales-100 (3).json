@@ -13718,7 +13718,7 @@
 		"excluded-days": "",
 		"uid": "10007859",
 		"link": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&vgnextoid=4a00d2e359143510VgnVCM2000001f4a900aRCRD",
-		"event-location": "Parque Lineal del Manzanares (UseraPte de Vallecas)",
+		"event-location": "Parque Lineal del Manzanares (Usera\Pte de Vallecas)",
 		"references": {
 			"@id": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=1ccd566813946010VgnVCM100000dc0ca8c0RCRD&vgnextoid=0689d2e359143510VgnVCM2000001f4a900aRCRD"
 		},
@@ -33031,7 +33031,6 @@
 	}	  
   ]
 }
-
 
 
 
